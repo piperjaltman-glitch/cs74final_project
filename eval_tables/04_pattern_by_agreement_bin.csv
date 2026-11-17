@@ -1,0 +1,4 @@
+agree_bin,both_miss,only_tfidf_miss,only_emb_miss,neither_miss
+unanimous,534,120,212,427
+majority,1969,276,329,469
+split,851,86,79,75

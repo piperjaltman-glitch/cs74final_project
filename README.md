@@ -12,7 +12,7 @@ We train TF-IDF and MiniLM-embedding emotion classifiers on GoEmotions and ask h
 | CS74_Dataset_Pipeline.ipynb | Preprocessing, feature construction, training, validation tuning and test predictions for all model variants [confirm earlier notebook names] |
 | CS74_Final_Evaluation_Error.ipynb | Ambiguity measures, error analysis, JSD, aggregation sensitivity, subgroup analysis, qualitative-review sampling |
 | outputs | Results and figures produced by both notebooks used in the final report |
-| outputs/qualitative_review_sample_completed.csv | The 40 sampled errors with both reviewers' labels and the resolved label |
+| qualitative_review_sample_completed.csv | The 40 sampled errors with both reviewers' labels and the resolved label |
 
 ## Environment
 - Google Colab, Python 3.13, scikit-learn 1.6.1, datasets 5.1.0, plus pandas, numpy, scipy, matplotlib, pyarrow and torch [confirm versions]
